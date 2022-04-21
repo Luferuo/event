@@ -6,9 +6,8 @@
 [test](https://raw.githubusercontent.com/Luferuo/soundevent/main/R6/Tripalosky.mp3)
 
 test :
-<html>
-   <head>
-      <iframe width="560" height="315" src="https://raw.githubusercontent.com/Luferuo/soundevent/main/R6/Tripalosky.mp3" frameborder="0" allowfullscreen></iframe>
-      </iframe>
-   </head>
-</html>
+<video controls width="250">
+    <source src="https://raw.githubusercontent.com/Luferuo/soundevent/main/R6/Tripalosky.mp3"
+            type="video/webm">
+    Sorry, your browser doesn't support embedded videos.
+</video>
