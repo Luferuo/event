@@ -8,11 +8,10 @@ test :
 
 <html>
   <head>
-    <audio
-           controls
-           src="/media/cc0-audio/t-rex-roar.mp3">
-      Your browser does not support the <code>audio</code> element.
-    </audio>
+      <audio controls >
+        <source src="https://raw.githubusercontent.com/Luferuo/soundevent/main/R6/Tripalosky.mp3" type="audio/mpeg"/>
+
+      </audio>
   </head>
 </html>
 
